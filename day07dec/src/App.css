@@ -1,10 +1,19 @@
 .App {
-
+  border: 2px solid black;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+h1{
+  border: 2px dotted blue;
+}
+.PropsUsage{
+  border: 2px solid red;
+}
+.SwitchProg{
+  border: 3px dashed green;
 }
 
 @media (prefers-reduced-motion: no-preference) {
