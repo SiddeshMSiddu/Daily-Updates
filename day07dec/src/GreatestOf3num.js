@@ -22,7 +22,7 @@ function Greatest({ a, b, c }) {
     }, [a, b, c]);
     return (
         <>
-            <p className="res">{result}</p>
+            <p>{result}</p>
         </>
 
     )
