@@ -8,8 +8,13 @@ function App() {
   return (
     <div className="App">
       <h1>Hello</h1>
-      <ProfileCreation/>
-      <SwitchProgram/>
+      <div className="PropsUsage">
+        <ProfileCreation/>
+      </div>
+      <div className="SwitchProg">
+        <SwitchProgram/>
+      </div>
+      
     </div>
   );
 }
