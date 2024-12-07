@@ -24,6 +24,7 @@ export  default function Message(){
     return(
         <>
         <Grade marks="66"/>
+        <Grade marks="35"/>
         </>
     )
 }
